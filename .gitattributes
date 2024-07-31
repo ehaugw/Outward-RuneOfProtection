@@ -1,0 +1,4 @@
+WeaponRepairKit.rar filter=lfs diff=lfs merge=lfs -text
+WeaponRepairKit_thunderstore.zip filter=lfs diff=lfs merge=lfs -text
+*.pdn filter=lfs diff=lfs merge=lfs -text
+*.png filter=lfs diff=lfs merge=lfs -text
